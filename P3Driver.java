@@ -2,7 +2,7 @@
  *  @author rbk
  */
 
-// Change to your net id
+// Change to folder name
 package multi-dimensional-search;
 
 import java.io.File;
