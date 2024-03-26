@@ -2,8 +2,8 @@
  *  @author Meghan Grayson
  */
 
-// Change to your net id
-package meg230001;
+// Change to folder name
+package multi-dimensional-search;
 
 import java.util.List;
 import java.util.LinkedList;
