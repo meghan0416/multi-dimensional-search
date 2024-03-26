@@ -3,7 +3,7 @@
  */
 
 // Change to your net id
-package meg230001;
+package multi-dimensional-search;
 
 import java.io.File;
 import java.util.List;
